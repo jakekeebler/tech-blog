@@ -1,4 +1,4 @@
-# SubmitRocket
+# TechBLog
 
   ![Generic badge](https://img.shields.io/badge/license-mit-green.svg)
 
